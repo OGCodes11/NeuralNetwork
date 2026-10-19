@@ -2,6 +2,8 @@
 
 A custom neural network built completely from scratch in Java without external machine learning libraries. This project was developed as part of a coursework lab to classify text files based on writing style (specifically distinguishing between texts written by William Shakespeare and Taylor Swift).
 
+PyTorch version: see the pytorch folder, a rebuild of this network with PyTorch
+
 ## Project Architecture
 
 The project consists of the following core components:
@@ -17,3 +19,4 @@ The project consists of the following core components:
 Open your terminal in the project source directory and compile all Java files:
 ```bash
 javac *.java
+
